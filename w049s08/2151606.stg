@@ -1,0 +1,21 @@
+OBJECT_BASE 2151606.btg
+OBJECT SWGN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.244522 -7.228470 235.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -48.234912 -7.226895 224.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -48.242370 -7.230440 236.2 0.00
+OBJECT_SIGN {no-entry,hazard,no-entry} -48.242241 -7.230659 236.2 286.35 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -48.241671 -7.229586 235.2 196.41 3
+OBJECT_SIGN {no-entry,hazard,no-entry} -48.241873 -7.229646 235.4 196.41 3
+OBJECT_SIGN {no-entry,hazard,no-entry,@@,no-entry,hazard,no-entry} -48.241892 -7.228876 234.4 196.41 3
+OBJECT_SIGN {no-entry,hazard,no-entry,@@,no-entry,hazard,no-entry} -48.242091 -7.228930 234.6 196.41 3
+OBJECT_SIGN {@L}C{@Y}A{^r,@@,@L}C{@Y}GA{^u} -48.243405 -7.230931 236.6 107.37 3
+OBJECT_SIGN {@L}C{@Y,^l}A{@@,@L}C{@Y}HANGAR{^u} -48.243925 -7.231332 236.4 282.47 3
+OBJECT_SIGN {@L}C{@Y,^l}A{@@,@L}C{@Y}HANGAR{^u} -48.243976 -7.231134 236.6 282.47 3
+OBJECT_SIGN {@L}A{@Y,^l}C{^r,@@,@L}A{@Y}B{^u} -48.243585 -7.230885 236.6 195.90 3
+OBJECT_SIGN {@L}A{@Y,^l}C{^r,@@,@L}A{@Y}B{^u} -48.243882 -7.230966 236.7 195.90 3
+OBJECT_SIGN {@L}B{@Y,^l}C{@R}09-27{^r,@@,@L}B{@Y}GA{^u} -48.243634 -7.230001 236.5 108.19 3
+OBJECT_SIGN {@L}B{@Y,^l}C{@R}09-27{^r,@@,@L}B{@Y}GA{^u} -48.243745 -7.229679 236.3 108.19 3
+OBJECT_SIGN {@L}A{@R}09-27{@@,@L}A{@Y,^l}B|{^u}C -48.243974 -7.229601 236.4 376.16 3
+OBJECT_SIGN {@L}A{@R}09-27{@@,@L}A{@Y,^l}B|{^u}C -48.244259 -7.229686 236.5 376.16 3
+OBJECT_SIGN {@L}A{@R}09-27{@Y}B{^r,@@,@L}A{@Y}RAMP{^u} -48.243779 -7.230256 236.7 376.16 3
+OBJECT_SIGN {@L}A{@R}09-27{@Y}B{^r,@@,@L}A{@Y}RAMP{^u} -48.244062 -7.230336 236.7 376.16 3

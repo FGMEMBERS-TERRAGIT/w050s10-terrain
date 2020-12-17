@@ -1,0 +1,5 @@
+OBJECT_BASE 2184362.btg
+OBJECT SNRX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.639361 -7.349087 403.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -46.628416 -7.351469 398.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -46.633794 -7.349748 403.2 0.00
